@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Ana Datos Personales
+
  */
 public class Ejercicio2ArrayBidimensionales {
 
